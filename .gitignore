@@ -1,0 +1,8 @@
+node_modules/
+src-tauri/target/
+src-tauri/resources/runtime/
+
+# built packages (exceed GitHub 100MB file limit)
+*.deb
+src-tauri/tray-backup.*/
+src-tauri/auth-fix-backup-*/
